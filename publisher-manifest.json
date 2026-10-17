@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "65214b88f812a1945f63995d",
+  "owner": "mfvxby",
+  "repo": "page-d567adf15b953167fd1938ba",
+  "title": "99Cloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d567adf15b953167fd1938ba",
+      "a": "99Cloud",
+      "b": "",
+      "entity": "99Cloud",
+      "brand": "99Cloud",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4997257722240e524b7c48b43353b44cec16d9777a2f5960d6f55fba4a0def25",
+      "content": {
+        "keyword1": "99Cloud",
+        "keyword2": "",
+        "primary_entity": "99Cloud",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "99Cloud 提供按月与按年订阅的网络代理套餐，含基础版、旗舰版与团队版，支持多设备接入与不同流量额度。本页说明套餐内容、使用步骤与常见问题。",
+          "AI_DESCRIPTION": "99Cloud 提供按月与按年订阅的网络代理套餐，含基础版、旗舰版与团队版，支持多设备接入与不同流量额度。本页说明套餐内容、使用步骤与常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#2a1f17;--bg-2:#34271c;--fg:#f0ebe3;--accent:#a8d5ba;--accent-d:#8fc4a3;--muted:#b9a98e;--line:#4a3829;--card:#392a1d}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:var(--bg);color:var(--fg);font-family:\"PingFang SC\",\"Microsoft YaHei\",\"Hiragino Sans GB\",system-ui,-apple-system,sans-serif;line-height:1.7;font-size:16px}\na{color:var(--accent);text-decoration:none}\na:hover{text-decoration:underline}\n.wrap{max-width:960px;margin:0 auto;padding:0 24px}\n.nav{border-bottom:1px solid var(--line);background:var(--bg)}\n.nav-inner{max-width:960px;margin:0 auto;padding:10px 24px;display:flex;gap:22px;align-items:center;font-size:14px;color:var(--muted);flex-wrap:wrap}\n.brand{font-weight:600;color:var(--fg);letter-spacing:.5px}\n.nav a{color:var(--muted)}\n.nav a:hover{color:var(--accent);text-decoration:none}\n.hero{display:grid;grid-template-columns:1.3fr 1fr;gap:48px;padding:72px 0 80px;align-items:start}\n.hero h1{font-size:34px;line-height:1.3;margin:0 0 18px;font-weight:600;letter-spacing:.3px}\n.hero p{color:var(--muted);margin:0 0 14px}\n.panel{background:var(--bg-2);border:1px solid var(--line);padding:26px 24px;font-size:14px}\n.panel h2{font-size:13px;text-transform:uppercase;letter-spacing:2px;color:var(--accent);margin:0 0 16px;font-weight:600}\n.panel .row{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px dashed var(--line)}\n.panel .row:last-child{border-bottom:none}\n.panel .row span:last-child{color:var(--fg)}\n.section{padding:56px 0;border-top:1px solid var(--line)}\n.section h2{font-size:24px;margin:0 0 10px;font-weight:600}\n.section .sub{color:var(--muted);font-size:14px;margin-bottom:30px}\n.plan{padding:28px 0 32px;border-bottom:1px solid var(--line)}\n.plan:last-child{border-bottom:none}\n.plan-head{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:10px;margin-bottom:18px}\n.plan-name{font-size:20px;font-weight:600}\n.plan-name .tag{display:inline-block;margin-left:10px;font-size:12px;color:var(--bg);background:var(--accent);padding:2px 8px;border-radius:2px;vertical-align:middle;font-weight:500}\n.plan-price{font-size:22px;color:var(--fg)}\n.plan-price .annual{display:block;font-size:13px;color:var(--accent-d);margin-top:4px}\n.plan ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:8px 24px;font-size:15px;color:var(--muted)}\n.plan ul li{padding-left:16px;position:relative}\n.plan ul li::before{content:\"\";position:absolute;left:0;top:11px;width:5px;height:5px;background:var(--accent);border-radius:50%}\n.steps{counter-reset:step;list-style:none;padding:0;margin:0}\n.steps li{padding:18px 0;border-bottom:1px solid var(--line);counter-increment:step;display:flex;gap:18px}\n.steps li:last-child{border-bottom:none}\n.steps li::before{content:counter(step,decimal-leading-zero);color:var(--accent);font-size:14px;font-weight:600;min-width:30px;padding-top:2px}\n.steps li .step-body p{margin:0;color:var(--muted);font-size:14px}\n.steps li .step-body strong{color:var(--fg);font-weight:600;display:block;margin-bottom:4px;font-size:15px}\n.faq details{border-bottom:1px solid var(--line);padding:18px 0}\n.faq summary{cursor:pointer;font-size:15px;font-weight:600;color:var(--fg);list-style:none;display:flex;justify-content:space-between;align-items:center}\n.faq summary::after{content:\"+\";color:var(--accent);font-size:18px;font-weight:400}\n.faq details[open] summary::after{content:\"–\"}\n.faq summary::-webkit-details-marker{display:none}\n.faq .answer{margin-top:14px;color:var(--muted);font-size:14px}\n.foot{padding:40px 0;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}\n.foot p{margin:0 0 6px}\n.note{background:var(--bg-2);border-left:3px solid var(--accent);padding:14px 18px;font-size:13px;color:var(--muted);margin:24px 0}\n@media (max-width:680px){\n  .hero{grid-template-columns:1fr;gap:30px;padding:40px 0 48px}\n  .hero h1{font-size:26px}\n  .plan ul{grid-template-columns:1fr}\n  .nav-inner{gap:14px}\n}\n</style><nav class=\"nav\">\n  <div class=\"nav-inner\">\n    <span class=\"brand\">99Cloud</span>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#usage\">使用方法</a>\n    <a href=\"#faq\">常见问题</a>\n    <a href=\"#about\">说明</a>\n  </div>\n</nav>\n\n<main class=\"wrap\">\n\n  <section class=\"hero\">\n    <div>\n      <h1>99Cloud 订阅服务配置说明</h1>\n      <p>99Cloud 提供按月计费的网络代理订阅，覆盖三种流量与设备规格。用户可按需选择套餐，完成订阅后获取接入凭据。</p>\n      <p>本页列出当前套餐价格、配置步骤与常见问题，供订阅前与使用中查阅。所有价格与权益以本页为准。</p>\n    </div>\n    <aside class=\"panel\">\n      <h2>套餐概览</h2>\n      <div class=\"row\"><span>基础版</span><span>¥15 / 月</span></div>\n      <div class=\"row\"><span>旗舰版</span><span>¥35 / 月</span></div>\n      <div class=\"row\"><span>团队版</span><span>¥85 / 月</span></div>\n      <div class=\"row\"><span>计费方式</span><span>月付 / 年付</span></div>\n      <div class=\"row\"><span>接入协议</span><span>见订阅说明</span></div>\n    </aside>\n  </section>\n\n  <section class=\"section\" id=\"plans\">\n    <h2>订阅套餐</h2>\n    <p class=\"sub\">以下套餐按订阅周期计费，年付含价格折让。套餐切换在下一计费周期生效。</p>\n\n    <article class=\"plan\">\n      <div class=\"plan-head\">\n        <div class=\"plan-name\">基础版</div>\n        <div class=\"plan-price\">¥15 / 月<span class=\"annual\">年付 ¥150 / 年</span></div>\n      </div>\n      <ul>\n        <li>每月 100GB 流量额度</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"plan\">\n      <div class=\"plan-head\">\n        <div class=\"plan-name\">旗舰版<span class=\"tag\">推荐</span></div>\n        <div class=\"plan-price\">¥35 / 月<span class=\"annual\">年付 ¥350 / 年</span></div>\n      </div>\n      <ul>\n        <li>每月 300GB 流量额度</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"plan\">\n      <div class=\"plan-head\">\n        <div class=\"plan-name\">团队版</div>\n        <div class=\"plan-price\">¥85 / 月<span class=\"annual\">年付 ¥850 / 年</span></div>\n      </div>\n      <ul>\n        <li>每月 1000GB 流量额度</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n\n    <p class=\"note\">价格以本页展示为准。流量每月重置，未用完部分不结转。订阅前请确认目标网络环境允许使用代理服务。</p>\n  </section>\n\n  <section class=\"section\" id=\"usage\">\n    <h2>使用方法</h2>\n    <p class=\"sub\">从订阅到接入的标准流程，按顺序完成即可使用。</p>\n    <ol class=\"steps\">\n      <li>\n        <div class=\"step-body\">\n          <strong>选择套餐并完成订阅</strong>\n          <p>在套餐区域选择对应版本，按月付或年付完成付款。付款成功后账户状态更新为已订阅。</p>\n        </div>\n      </li>\n      <li>\n        <div class=\"step-body\">\n          <strong>获取订阅链接</strong>\n          <p>登录账户后台，在「订阅信息」中复制专属订阅地址。该地址绑定账户，请勿公开分享。</p>\n        </div>\n      </li>\n      <li>\n        <div class=\"step-body\">\n          <strong>导入客户端</strong>\n          <p>在支持订阅导入的客户端中粘贴订阅链接，触发节点列表更新。客户端类型与版本请自行确认兼容性。</p>\n        </div>\n      </li>\n      <li>\n        <div class=\"step-body\">\n          <strong>选择节点并连接</strong>\n          <p>从更新后的节点列表中选择目标节点，点击连接。连接成功后客户端显示活跃状态，即可开始使用。</p>\n        </div>\n      </li>\n      <li>\n        <div class=\"step-body\">\n          <strong>查看用量与续费</strong>\n          <p>在账户后台可查看当月已用流量与到期时间。接近额度或到期时请及时续费或升级套餐。</p>\n        </div>\n      </li>\n    </ol>\n  </section>\n\n  <section class=\"section faq\" id=\"faq\">\n    <h2>常见问题</h2>\n    <p class=\"sub\">订阅、流量与使用中常见问题的说明。</p>\n\n    <details>\n      <summary>套餐之间可以切换吗？</summary>\n      <div class=\"answer\">可以。在账户后台提交切换请求，升级或降级均在下一计费周期生效。当前周期内套餐权益不变。</div>\n    </details>\n\n    <details>\n      <summary>流量每月什么时候重置？</summary>\n      <div class=\"answer\">按订阅开通日期对应的自然日重置。例如 3 月 12 日开通，则每月 12 日重置流量计数。未用完的流量不结转到下月。</div>\n    </details>\n\n    <details>\n      <summary>设备数量超出限制会怎样？</summary>\n      <div class=\"answer\">同时在线设备数达到上限后，新设备无法连接，已有连接不受影响。如需更多设备，请升级到更高规格套餐。</div>\n    </details>\n\n    <details>\n      <summary>年付价格如何计算？</summary>\n      <div class=\"answer\">年付价格为对应月付价格的 10 倍，相当于订阅 10 个月、赠送 2 个月。年付仅在开通或续费时可选，中途不按比例补差。</div>\n    </details>\n\n    <details>\n      <summary>订阅地址失效怎么办？</summary>\n      <div class=\"answer\">在账户后台点击「重置订阅地址」，旧地址立即失效，需在客户端重新导入新地址。建议在怀疑地址泄露时及时重置。</div>\n    </details>\n\n    <details>\n      <summary>可以申请退款吗？</summary>\n      <div class=\"answer\">本服务为虚拟订阅，开通后即消耗流量与节点资源，原则上不支持无理由退款。如遇节点不可用等技术问题，请联系工单处理。</div>\n    </details>\n  </section>\n\n  <section class=\"section\" id=\"about\">\n    <h2>服务说明</h2>\n    <p class=\"sub\">关于本服务使用边界的补充说明。</p>\n    <p>99Cloud 提供网络代理订阅，用户需自行准备客户端并确认所在网络环境的合规性。本服务不提供客户端下载，也不对特定客户端版本做兼容承诺。</p>\n    <p>套餐中提到的「流媒体解锁」「游戏加速」等功能受节点状态、目标平台策略与本地网络环境影响，不作为恒定可用性的承诺。</p>\n    <p>节点池与线路规格可能随运营情况调整，调整前将在账户后台或公告中提前告知。</p>\n  </section>\n\n</main>\n\n<footer class=\"foot\">\n  <div class=\"wrap\">\n    <p>99Cloud — 网络代理订阅服务</p>\n    <p>本页内容为套餐与服务说明，不构成交易要约。实际订阅请以账户后台显示为准。</p>\n  </div>\n</footer>",
+          "hash": "7fd2d2fe9453ba02db9cbc54db9f3108d851b321fd52c61c38a7c39d19ebd61a",
+          "seo": {
+            "title": "99Cloud — 网络代理配置手册与套餐清单",
+            "keywords": "99Cloud, 网络代理, 节点配置, 流量套餐, 订阅服务",
+            "description": "99Cloud 提供按月与按年订阅的网络代理套餐，含基础版、旗舰版与团队版，支持多设备接入与不同流量额度。本页说明套餐内容、使用步骤与常见问题。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "4968",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aqerpf.cn",
+    "host": "p-dab55021c1.aqerpf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a03d5eeea5142e06e17a55e8f0538df1286084499eedc5dd9c94a5aaca61834f",
+    "sitemap.xml": "2095d61864501b4a7bcf3f4e1de744b9b77f16c602b9792a26eed3231b94af64",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0013414bc9b369ce2a5c4723fc7d0ca43004d16b5f97c961ce43034025079da4",
+    "robots.txt": "24a52728efddd55430917e10b8ebd1132a45e9e513b5178b3963d58680da1c00",
+    "eb55243e2d7a5d0795ffc8c3c9144d7a.txt": "7a3b7de75782d85ca9a7a63c10de75f58d46d0e7badf38afc43e7d1d349ba569"
+  },
+  "revision": "d6c60cff9d70a2db9995f3b84c067dd97e74c66d72cf1b9a9a08c9f629ab6c79"
+}
